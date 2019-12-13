@@ -1,2 +1,2 @@
-# d20simulator-app
-Simulador de throws para RPG
+# Projeto Final
+programação de aplicativos 2
