@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulador D20</string>
+    <string name="dice_roll_label">Rolar dado</string>
+    <string name="dice_type_label">Tipo do dado:</string>
+    <string name="instructions">Toque no dado para rolar uma jogada. Use o range abaixo para alterar o tipo do dado.</string>
+    <string name="title_activity_login">Acessar</string>
+    <string name="prompt_email">Usuário (e-mail)</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar ou registrar-se</string>
+    <string name="auth_null">Os campos devem ser preenchidos para fazer login/criar uma conta.</string>
+    <string name="auth_signup_fail">Autenticação falhou, confira os campos e tente novamente.</string>
+    <string name="auth_password_fail">A senha deve conter no mínimo 6 caracteres.</string>
+    <string name="auth_email_fail">O endereço de e-mail inserido é inválido.</string>
+    <string name="auth_no_connection">Você não possui conexão com a internet neste momento.</string>
+    <string name="logout_message">Deseja sair para a tela de login?</string>
+    <string name="confirm">Sim</string>
+    <string name="cancel">Não</string>
+    <string name="logout_title">Sair da conta</string>
+    <string name="rolls_action">Minhas jogadas</string>
+    <string name="logout">Sair da conta</string>
+    <string name="roll_val_title">Resultado</string>
+    <string name="roll_dice_title">Tipo de dado</string>
+    <string name="roll_date_title">Horário</string>
+    <string name="show_map_message">Toque para ver no mapa</string>
+</resources>
